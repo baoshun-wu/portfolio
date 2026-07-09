@@ -55,6 +55,3 @@ We welcome contributions! Please follow these steps:
    ```
 5. Open a pull request.
 
-## Contact
-
-For any inquiries or support, please contact us at [contact@nihal.com.np](mailto:contact@nihal.com.np).# portfolio
