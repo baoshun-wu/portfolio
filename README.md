@@ -1,11 +1,3 @@
-# [nihal.com.np](https://nihal.com.np)
-
-Experienced Senior Software Engineer with over five years of expertise as a Full Stack Developer, specializing in JavaScript, TypeScript, React.js, Node.js, Laravel, and AWS.
-
-Skilled in designing scalable, secure, and efficient systems, with a proven track record of collaborating with remote, cross-functional teams across the US, Australia, and Nepal. Demonstrated success in delivering impactful solutions within highly regulated environments, including healthcare projects, with expertise in HIPAA and SOC2 compliance. Proficient in optimizing system performance and mentoring teams to achieve sustained technical excellence.
-
-
-
 ## Getting Started
 
 Follow these steps to set up the project locally:
